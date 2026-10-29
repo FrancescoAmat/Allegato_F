@@ -1,7 +1,7 @@
 var size = 0;
 var placement = 'point';
 
-var style_Bassa1231ald_3 = function(feature, resolution){
+var style_Bassa1371ald_3 = function(feature, resolution){
     var context = {
         feature: feature,
         variables: {}
